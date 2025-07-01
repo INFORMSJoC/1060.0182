@@ -5,8 +5,8 @@
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
-The software and data in this repository are a snapshot of the software and data
-that were used in the research reported on in the paper
+The software in this repository is an implementation of one of the surrogate optimization
+algorithms developed in the paper 
 [A stochastic radial basis function method for the global optimization of expensive functions](https://doi.org/10.1287/ijoc.1060.0182)
 by R.G. Regis and C.A. Shoemaker.
 
@@ -34,7 +34,6 @@ Below is the BibTex for citing this snapshot of the repository.
   note =          {Available for download at https://github.com/INFORMSJoC/1060.0182},
 }
 ```
-
 
 ## Overview
 
@@ -73,8 +72,8 @@ If you encounter any errors, please contact `rregis@sju.edu`.
 
 Thank you very much for your interest.
 
-Rommel G. Regis, Ph.D.
-Professor
-Department of Mathematics
-Saint Joseph's University
+Rommel G. Regis, Ph.D.  
+Professor  
+Department of Mathematics  
+Saint Joseph's University  
 Philadelphia, PA 19131, USA
